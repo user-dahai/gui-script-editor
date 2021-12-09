@@ -2,11 +2,15 @@
 A gui-script-editor(Based on pyqt5, pyautogui) to writing your gui script.
 
 ##**更新说明**
+
 版本号：1.0.0
+
 版本说明：实现了脚本编辑器雏形，未实现执行报告，自动化脚本管理（只支持单个脚本运行）
 
+##[免配置环境
+app.exe](https://github.com/user-dahai/gui-script-editor/releases)
 
-##文运行环境
+##源代码运行环境
 依赖|版本号
 ---|---
 python|3.7
@@ -16,6 +20,8 @@ xlrd                            |2.0.1
 xlwt                            |1.3.0
 pyperclip                       |1.8.2
 pyinstaller                     |4.7
+
+
 
 ##文件说明
 路径|文件名|窗口截图|文件描述
